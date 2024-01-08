@@ -4,6 +4,9 @@ Water analyses typically result in numerous characteristic values. The bunch of 
 For this application, we have developed a plot tool that allows standardized Schoeller diagrams, such as the example above, to be plotted with minimal effort and only one command in the Matlab programming environment. All required files, including the program code of the plot command, a detailed tutorial, as well as sample commands for all plots of the tutorial can be found in this collection:
 
 User manual: Standardized Schoeller Diagrams with Matlab - A User Manual.pdf
+
 Main code file: plotSchoeller.m
+
 Example commands of all figures in the manual: createAllFigures.m
+
 Example dataset used in the manual: ExampleDataSet.xlsx
