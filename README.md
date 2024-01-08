@@ -10,3 +10,29 @@ Main code file: plotSchoeller.m
 Example commands of all figures in the manual: createAllFigures.m
 
 Example dataset used in the manual: ExampleDataSet.xlsx
+
+----------------------------------------------------------------------
+ Contact and Licence
+----------------------------------------------------------------------
+
+ For any suggestions concerning the code or the manual you can write to
+
+      dietz@mathematik.tu-darmstadt.de
+
+ and for any suggestions concerning (standardized) Schoeller diagrams to
+
+      rafael.schaeffer@tu-darmstadt.de
+
+ The original source of this code file is
+
+ https://doi.org/10.48328/tudatalib-877
+
+ There you can find a manual and additional information.
+
+ The matlab code and the manual are published under the CC-BY license. 
+ The tool and any graphics, created with this plotting tool, can be used 
+ by naming the corresponding publication:
+
+  Schäffer, R., Dietz, A. (2023): Standardized Schoeller diagrams — 
+  A Matlab plotting tool. Grundwasser 28, 345–355. 
+  https://doi.org/10.1007/s00767-023-00556-3
